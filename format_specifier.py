@@ -11,3 +11,6 @@ print(f"price3: ${price3:,}")
 # :^x atur rata tengah
 # :>x atur rata kanan
 # :<x atur rata kiri
+# :+ tambah tanda + atau - di depan angka
+# :, kasih tanda koma di ribuan
+# :0x menambahkan 0 di depan angka sampai total x digit
