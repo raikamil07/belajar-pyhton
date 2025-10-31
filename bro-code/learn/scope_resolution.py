@@ -1,0 +1,1 @@
+# scope resolution = (LEGB) Local > Enclosed > Global > Built-in
